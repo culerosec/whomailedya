@@ -50,3 +50,6 @@ LOWER RISK
   "score": 70,
   "spoofable": false
 }
+
+
+The scoring isnt very accurate at this time. The script works well for a quick check of common email DNS record misconfigurations.
