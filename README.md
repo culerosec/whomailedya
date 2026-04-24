@@ -19,20 +19,6 @@ spoofcheck.py: error: the following arguments are required: domain
 
 └─$ python spoofcheck.py google.com
 
-DOMAIN: google.com
-
-SPF:
-Record: None
-Lookups: 0
-
-DMARC:
-Record: v=DMARC1; p=reject; rua=mailto:mailauth-reports@google.com
-Policy: reject
-aspf: r
-adkim: r
-
-SCORE: 70
-LOWER RISK
 
 └─$ python spoofcheck.py google.com
 
