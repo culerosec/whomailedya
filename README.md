@@ -19,9 +19,6 @@ spoofcheck.py: error: the following arguments are required: domain
 
 └─$ python spoofcheck.py google.com
 
-
-└─$ python spoofcheck.py google.com
-
 DOMAIN: google.com
 
 SPF:
