@@ -52,4 +52,5 @@ LOWER RISK
 }
 
 
-The scoring isnt very accurate at this time. The script works well for a quick check of common email DNS record misconfigurations.
+WIP - The scoring isnt very accurate at this time.
+The script works well for a quick check of common email DNS record misconfigurations.
